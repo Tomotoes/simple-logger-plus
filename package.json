@@ -1,0 +1,15 @@
+{
+  "name": "simple-logger-plus",
+  "version": "1.0.1",
+  "description": "simple-logger-tool",
+  "main": "index.js",
+  "keywords": ["log","logger","console"],
+	"author": "SimonAking",
+	"license": "LGPI-3.0",
+	"repository": "https://github.com/tomotoes/simple-logger-plus",
+	"bugs": "https://github.com/tomotoes/simple-logger-plus/issues",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "log-symbols": "^3.0.0"
+  }
+}
